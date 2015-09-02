@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca4c4693-da3e-4fd5-aade-67b04f0dbbe8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\mine_folder\учебка\мои проекты\Portfolio\materials\Git(Url-based)\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\mine_folder\учебка\мои проекты\Portfolio\materials\Git(Url-based)\.idea\Git(Url-based).iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\mine_folder\учебка\мои проекты\Portfolio\materials\Git(Url-based)\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\mine_folder\учебка\мои проекты\Portfolio\materials\Git(Url-based)\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\mine_folder\учебка\мои проекты\Portfolio\materials\Git(Url-based)\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\mine_folder\учебка\мои проекты\Portfolio\materials\Git(Url-based)\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\mine_folder\учебка\мои проекты\Portfolio\materials\Git(Url-based)\.idea\workspace.xml" afterPath="" />
     </list>
     <ignored path="Git(Url-based).iws" />
     <ignored path=".idea/workspace.xml" />
